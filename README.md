@@ -1,16 +1,13 @@
-### Hi there 👋
+## Olá! eu sou Lameira Gaspar 😉
 
-<!--
-**AMLG22/AMLG22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Blogge](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://clima-angola.blogspot.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/climeteo.analysis_lg?igsh=OGQ5ZDc2ODk2ZA==)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![LAMEIRA GASPAR GitHub stats](https://github-readme-stats.vercel.app/api?username=AMLG22&show_icons=true&theme=dracula)
+
+## Linguagens Programação
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMLG22&hide_progress=true)
+
