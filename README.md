@@ -1,4 +1,4 @@
-## Olá! eu sou Lameira Gaspar 😉
+## Olá! Eu sou Lameira Gaspar 😉
 
 [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://clima-angola.blogspot.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/climeteo.analysis_lg?igsh=OGQ5ZDc2ODk2ZA==)
