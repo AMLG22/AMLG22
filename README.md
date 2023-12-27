@@ -5,7 +5,7 @@
 [![Kaggler](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/lameiragaspar)
 
 
-![LAMEIRA GASPAR GitHub stats](https://github-readme-stats.vercel.app/api?username=AMLG22&show_icons=true&theme=dracula)
+![LAMEIRA GASPAR GitHub stats](https://github-readme-stats.vercel.app/api?username=AMLG22&show_icons=true&theme=none)
 
 ## Linguagens Programação
 
