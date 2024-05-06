@@ -5,9 +5,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/climeteo.analysis_lg?igsh=OGQ5ZDc2ODk2ZA==)
 [![Kaggler](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/lameiragaspar)
 
-
 ![LAMEIRA GASPAR GitHub stats](https://github-readme-stats.vercel.app/api?username=AMLG22&show_icons=true&theme=none)
 
 ## Linguagens de Programação
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMLG22&hide_progress=false)
+
+## Contribuições
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AMLG22&" alt="AMLG22" /></p>
